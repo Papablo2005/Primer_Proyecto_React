@@ -1,0 +1,25 @@
+#contenedorLogin{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(247, 247, 182);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.inputLogin{
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+#btnLogin{
+    width: 50%;
+    height: 40px;
+    border-radius: 30px;
+    background-color: rgb(249, 201, 119);
+    cursor: pointer;
+}
