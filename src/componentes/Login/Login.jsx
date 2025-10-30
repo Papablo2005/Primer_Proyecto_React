@@ -28,7 +28,6 @@ function Login(){
             placeholder="Ingrese su Usuario" 
             />
             <input type="password" 
-            onChange={(e) => setCampo(e.target.value)} 
             className="inputLogin" 
             placeholder="Ingrese su Contraseña" 
             />       
